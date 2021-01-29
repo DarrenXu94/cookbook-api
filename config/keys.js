@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'mongodb://admin:admin123@ds137730.mlab.com:37730/cookbook'
+    mongoURI: 'mongodb+srv://admin:admin123@cookbook.6d6la.mongodb.net/cookbook?retryWrites=true&w=majority'
 };
